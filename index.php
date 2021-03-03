@@ -6,7 +6,7 @@
 <body>
 
 <h1>Hubmi</h1>
-<p>Gerando soluções</p>
+<p>Gerando soluções para você</p>
 
 </body>
 </html>
